@@ -1,0 +1,6 @@
+name: SurvivelistCombat
+version: ${project.version}
+main: itzshmulik.survivelist.survivelistcombat.SurvivelistCombat
+api-version: 1.17
+authors: [ ItzShmulik ]
+description: Adds survivelist's "in combat" system
